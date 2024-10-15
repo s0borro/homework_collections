@@ -1,0 +1,54 @@
+
+«
+java:S1192W"Define a constant instead of duplicating this literal "Ğ£Ñ‡ĞµĞ½Ğ¸ĞºĞ° Ñ Ğ²Ğ²ĞµĞ´ĞµĞ½Ğ½Ñ‹Ğ¼ Ğ¸Ğ¼ĞµĞ½ĞµĞ¼ Ğ½Ğµ ÑÑƒÑ‰ĞµÑÑ‚Ğ²ÑƒĞµÑ‚." 3 times.(â¸œÍ8°×¥©2
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Á×¥©2
+F	java:S106"+Replace this use of System.out by a logger.(µÛú38Æ×¥©2
+G	java:S106"+Replace this use of System.out by a logger.(Âù†È8Æ×¥©2
+F	java:S106"+Replace this use of System.out by a logger.(ÜÆ•}8Æ×¥©2
+F	java:S106"+Replace this use of System.out by a logger.(£ß¨i8Æ×¥©2
+G	java:S106"+Replace this use of System.out by a logger.(¡†È8Æ×¥©2
+F	java:S106 "+Replace this use of System.out by a logger.(“–¸W8Æ×¥©2
+G
+java:S3457!"%String contains no format specifiers.(’Õªäûÿÿÿÿ8Ç×¥©2
+L	java:S106!"+Replace this use of System.out by a logger.(’Õªäûÿÿÿÿ8Ç×¥©2
+B
+java:S34576"%String contains no format specifiers.(ò Şƒ8Ç×¥©2
+G	java:S1066"+Replace this use of System.out by a logger.(ò Şƒ8È×¥©2
+G	java:S1068"+Replace this use of System.out by a logger.(ĞÛâï8È×¥©2
+B
+java:S3457?"%String contains no format specifiers.(„àƒô8È×¥©2
+G	java:S106?"+Replace this use of System.out by a logger.(„àƒô8È×¥©2
+B
+java:S3457G"%String contains no format specifiers.(¢ÅÓš8È×¥©2
+G	java:S106G"+Replace this use of System.out by a logger.(¢ÅÓš8È×¥©2
+G
+java:S3457P"%String contains no format specifiers.(’ÈËıÿÿÿÿ8É×¥©2
+L	java:S106P"+Replace this use of System.out by a logger.(’ÈËıÿÿÿÿ8É×¥©2
+G	java:S106U"+Replace this use of System.out by a logger.(Äô¢·8É×¥©2
+G	java:S106W"+Replace this use of System.out by a logger.(â¸œÍ8Ê×¥©2
+B
+java:S3457\"%String contains no format specifiers.(âã¯Ğ8Ê×¥©2
+G	java:S106\"+Replace this use of System.out by a logger.(âã¯Ğ8Ê×¥©2
+B
+java:S3457d"%String contains no format specifiers.(ÑÀø³8Ê×¥©2
+G	java:S106d"+Replace this use of System.out by a logger.(ÑÀø³8Ê×¥©2
+G	java:S106i"+Replace this use of System.out by a logger.(â¸œÍ8Ë×¥©2
+L	java:S106n"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8Ë×¥©2
+G	java:S106o"+Replace this use of System.out by a logger.(Úõı·8Ë×¥©2
+G	java:S106q"+Replace this use of System.out by a logger.(¯çÂ¸8Ë×¥©2
+L	java:S106r"+Replace this use of System.out by a logger.(ÑÄ¥½úÿÿÿÿ8Ë×¥©2
+L	java:S106s"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8Ì×¥©2
+L	java:S106u"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8Ì×¥©2
+G
+java:S3457y"%String contains no format specifiers.(ÌÙìøÿÿÿÿ8Ì×¥©2
+L	java:S106y"+Replace this use of System.out by a logger.(ÌÙìøÿÿÿÿ8Ì×¥©2
+L	java:S106}"+Replace this use of System.out by a logger.(á÷å±ûÿÿÿÿ8Ì×¥©2
+L	java:S106~"+Replace this use of System.out by a logger.(ö§‡¦ûÿÿÿÿ8Ì×¥©2
+H	java:S106€"+Replace this use of System.out by a logger.(â¸œÍ8Í×¥©2
+M	java:S106"+Replace this use of System.out by a logger.(ı¥Ğùøÿÿÿÿ8Î×¥©2
+M	java:S106"+Replace this use of System.out by a logger.(Ãª’øúÿÿÿÿ8Î×¥©2
+C
+java:S3457–"%String contains no format specifiers.( óÆÆ8Ï×¥©2
+H	java:S106–"+Replace this use of System.out by a logger.( óÆÆ8Ï×¥©2
+M	java:S106œ"+Replace this use of System.out by a logger.(İşå¢úÿÿÿÿ8Ï×¥©2
